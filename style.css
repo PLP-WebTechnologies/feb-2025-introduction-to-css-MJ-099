@@ -1,0 +1,18 @@
+#google {
+    color:aqua;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.homefooter {
+    color:aqua  
+    font-weight: bold;
+}
+
+body {
+    background-image: url('../Images/motivational\ quotes.jpeg'); /* location of image */
+    background-repeat: no-repeat; /* prevents image repeat */
+    background-size: cover; /* scale image to cover the entire element (body) */
+    background-position: center; /*centers the image */
+
+}
